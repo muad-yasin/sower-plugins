@@ -1,6 +1,6 @@
 # Sower Plugins
 
-Claude Code plugins that bring a second opinion and a working method into your session: agents that review a plan, hunt bugs and check quality, and skills for planning, writing and search content. Two more plugins are for building games.
+Plugins that bring a second opinion and a working method into your work with AI: agents that review a plan, hunt bugs and check quality, and skills for planning, writing and search content. Two more plugins are for building games. Every skill and agent is a plain Markdown file, and the skills follow the open Agent Skills format.
 
 In the four plugins written here, every rule says what it rests on: something that happened in our own work, a source read on a stated date, or an inference marked as one. The fifth, sower-writer, holds copies of The High Council's public writing skills.
 
@@ -44,6 +44,8 @@ Or add the marketplace once and install from it:
 claude plugin marketplace add muad-yasin/sower-plugins
 claude plugin install sower-review@sower-plugins
 ```
+
+In another coding agent that reads the open [Agent Skills](https://agentskills.io) format, copy a skill's folder, for example `sower-writer/skills/drafting`, to where that agent reads its skills. The five review agents are written for Claude Code.
 
 ## Where it comes from
 

@@ -4,7 +4,7 @@ The standard for any text an agent loads, whether a skill, an agent file or a ru
 
 ## What this repository is
 
-Five Claude Code plugins of Sower Industries' working practice. They are extracted from one real project, a Unity mobile game whose browser build went out as a public playtest in October 2026, and generalized for Unity games, Unreal games, websites, and games embedded in websites. The four plugins of our own grade every rule by its record or its source (below). sower-writer carries copies (below).
+Five plugins of Sower Industries' working practice. They are extracted from one real project, a Unity mobile game whose browser build went out as a public playtest in October 2026, and generalized for Unity games, Unreal games, websites, and games embedded in websites. The four plugins of our own grade every rule by its record or its source (below). sower-writer carries copies (below).
 
 ## Keep the scar, drop the coordinates
 
