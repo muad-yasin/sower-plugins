@@ -1,0 +1,7 @@
+{
+  "name": "sower-writer",
+  "description": "Writing, from draft to publish: copywriting and drafting, fact-checking and sourcing discipline, line editing, an independent final read, and warm coverage of a real subject. Built for real-world-sourced content.",
+  "version": "0.2.0",
+  "author": { "name": "Sower Industries" },
+  "license": "MIT"
+}

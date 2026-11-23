@@ -1,0 +1,7 @@
+{
+  "name": "sower-game-systems",
+  "description": "The systems layer of a game: contract-first architecture, state and save integrity, economy and balance math, tests of pure logic. Engine detail for Unity and the web; Unreal as open questions.",
+  "version": "0.2.0",
+  "author": { "name": "Sower Industries" },
+  "license": "MIT"
+}

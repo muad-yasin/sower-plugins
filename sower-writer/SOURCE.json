@@ -1,0 +1,24 @@
+{
+  "source": "https://github.com/muad-yasin/the-high-council-mcp",
+  "commit": "0b4016a5e7e03e0afd99eef16ef0e299302b9b95",
+  "files": {
+    "drafting/SKILL.md": "c70abe8ef55665e8d6e876de0a8f85673419e434aad013c01115f0680a485585",
+    "drafting/references/evidence.md": "4765234f9d9b9ca90d2cf6fb9d2088b96697723ede3f92fecc2f4449fb461dbe",
+    "drafting/references/headline-craft.md": "5fdf8b3bfc65452fed3dc82ff1cb1a516dda193b402eb2c734d85b3a58424ba6",
+    "drafting/references/in-product-copy.md": "22d3cded0c556751af82b56a61926f5e99323ac7eb2caa5dd8c5f9762b4d9825",
+    "drafting/references/registers.md": "b42a90c116b79e8cdc1c62c768b85849c507bb7ba108c342e05e0b4ae70253c0",
+    "fact-checking/SKILL.md": "9564412214970ca5fedcf1358c78c8c33718d2e6d9337df60ee19111bf8f22d1",
+    "fact-checking/references/legal-guardrail.md": "fd59a62096beded4f0e2829742a9dbebf94e89af09879d22b2c10f4ea8e99885",
+    "fact-checking/references/verification.md": "baff2d27645082b82c8abcfb0de6d3f309c568403e6a889b9609831221123cde",
+    "final-read/SKILL.md": "2c57fbd0b0f1137d54a3adca3fe9846d7e8826bde21db7b382832506db2dae27",
+    "final-read/references/anchors.md": "dcb1afd6f4e63377b29e0f174c4d4da09c9f59ff172ec660757e76be77974e62",
+    "final-read/references/presentation.md": "171ebb875df9e489a74066e028ac5a33d4ba9b6b451054a1d0fb554270762c2b",
+    "final-read/references/reading-panel.md": "0b50b04c935d061814dabf3b60e7c46a7ccc69b6e6648abb6aa773ab8e6a68dd",
+    "good-news-writing/SKILL.md": "47080e64194fa677181632549a28a2efaa533038858985f34595ad9ecf5c61c2",
+    "good-news-writing/references/failure-modes.md": "f3ed61e358d6fa7e485bdeed6f8d3ff5b566e34066fd768f0c69f43c4563ec20",
+    "line-editing/SKILL.md": "3ddf6b9578f80b5ccedcda58c1a7fc524a0e27dad5275ebb12364f647367402e",
+    "line-editing/references/ai-tells.md": "1a9b948934dd5df52514dd41a66ebbb52bb05b13f0fb5824705735d52456e2c7",
+    "line-editing/references/failure-modes.md": "b677288c085bdc53f636a9608d347b9ac37149b03e75599924ea23bf7af9e036",
+    "line-editing/references/mechanical-checks.md": "03f0d5addc82f11a17c889009d8a62d4a93f5924bad0e5f71f49a298a967108a"
+  }
+}

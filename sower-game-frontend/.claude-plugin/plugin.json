@@ -1,0 +1,7 @@
+{
+  "name": "sower-game-frontend",
+  "description": "A game's interface end to end: UX design, UI implementation, visual craft and 3D assets. Engine detail for Unity and the web; Unreal as open questions.",
+  "version": "0.2.0",
+  "author": { "name": "Sower Industries" },
+  "license": "MIT"
+}

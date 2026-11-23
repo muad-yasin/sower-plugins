@@ -1,0 +1,7 @@
+{
+  "name": "sower-review",
+  "description": "Review agents and a project-lead skill: scope gating, bug auditing, design critique, and recurring quality checks.",
+  "version": "0.2.0",
+  "author": { "name": "Sower Industries" },
+  "license": "MIT"
+}

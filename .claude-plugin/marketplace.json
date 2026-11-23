@@ -1,0 +1,15 @@
+{
+  "name": "sower-plugins",
+  "owner": { "name": "Sower Industries" },
+  "metadata": {
+    "description": "Sower Industries' working practice, packaged: building games and websites, writing, and search and content work.",
+    "version": "0.1.0"
+  },
+  "plugins": [
+    { "name": "sower-game-systems",  "source": "./sower-game-systems",  "description": "For games: rules, state, saves and their migration, economy and balance math." },
+    { "name": "sower-game-frontend", "source": "./sower-game-frontend", "description": "For games: UX design, UI implementation, visual craft and 3D assets." },
+    { "name": "sower-review",   "source": "./sower-review",   "description": "Review agents plus a project-lead skill." },
+    { "name": "sower-writer",   "source": "./sower-writer",   "description": "Drafting, fact-checking, editing, an independent final read, and warm coverage of a real subject." },
+    { "name": "sower-marketing", "source": "./sower-marketing", "description": "SEO strategy, and briefing SEO and content work to AI agents and checking what comes back." }
+  ]
+}

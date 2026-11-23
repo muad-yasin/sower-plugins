@@ -1,0 +1,7 @@
+{
+  "name": "sower-marketing",
+  "description": "SEO strategy, and briefing SEO and content work to AI agents and checking what comes back, for small sites with little content.",
+  "version": "0.1.0",
+  "author": { "name": "Sower Industries" },
+  "license": "MIT"
+}
